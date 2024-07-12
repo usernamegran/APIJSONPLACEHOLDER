@@ -1,7 +1,7 @@
 # APIJSONPLACEHOLDER
 
 ## Introdução
-Este é um projeto de teste da API JSONPlaceholder, oferecido pelo curso B7WEB de JavaScript. Ele demonstra como usar a API para realizar operações básicas de CRUD (Create, Read, Update, Delete).
+Este é um projeto de teste da API JSONPlaceholder, oferecido pelo curso B7WEB de JavaScript. Ele demonstra como usar a API para realizar operações básicas de Inserir e Listar POSTS.
 
 ## Funcionalidades
 - **Inserção de Dados:** Permite inserir novos dados na API através de um formulário.
